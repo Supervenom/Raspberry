@@ -17,4 +17,4 @@ http://stackoverflow.com/questions/17078414/samba-shares-seen-in-windows-but-can
 
 
 
-Files: fstab, transmission settings, pyload settings, vnc scripts,smb.conf
+Files: fstab, transmission settings, pyload settings, vnc scripts,smb.conf, transmission-daemon
