@@ -14,3 +14,7 @@ Update:   http://raspberrypi.stackexchange.com/questions/4698/how-can-i-keep-my-
 Nas:  http://www.makeuseof.com/tag/turn-your-raspberry-pi-into-a-nas-box/
 
 http://stackoverflow.com/questions/17078414/samba-shares-seen-in-windows-but-cannot-connect
+
+
+
+Files: fstab, transmission settings, pyload settings, vnc scripts,smb.conf
