@@ -10,3 +10,7 @@ Torrent/JDownloader:  http://www.paolocampitelli.com/2013/04/17/tutorial-come-tr
 JDownloader:   http://rpy-italia.org/forum/index.php?topic=224.0
 
 Update:   http://raspberrypi.stackexchange.com/questions/4698/how-can-i-keep-my-raspbian-wheezy-up-to-date
+
+Nas:  http://www.makeuseof.com/tag/turn-your-raspberry-pi-into-a-nas-box/
+
+http://stackoverflow.com/questions/17078414/samba-shares-seen-in-windows-but-cannot-connect
