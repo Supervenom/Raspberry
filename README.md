@@ -15,6 +15,8 @@ Nas:  http://www.makeuseof.com/tag/turn-your-raspberry-pi-into-a-nas-box/
 
 http://stackoverflow.com/questions/17078414/samba-shares-seen-in-windows-but-cannot-connect
 
+NTFS:  http://askubuntu.com/questions/11840/how-to-chmod-on-an-ntfs-or-fat32-partition/91054#91054
+
 
 
 Files: fstab, transmission settings, pyload settings, vnc scripts,smb.conf, transmission-daemon
