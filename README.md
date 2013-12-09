@@ -21,5 +21,7 @@ Web Server: http://raspberrywebserver.com/serveradmin/
 
 http://blog.mivia.dk/2013/03/free-dynamic-dns-for-raspberry-pi/
 
+http://it.wikihow.com/Creare-un-Web-Server-su-Raspberry-Pi
+
 
 Files: fstab, transmission settings, pyload settings, vnc scripts,smb.conf, transmission-daemon, /etc/ddclient.conf
