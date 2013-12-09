@@ -17,6 +17,9 @@ http://stackoverflow.com/questions/17078414/samba-shares-seen-in-windows-but-can
 
 NTFS:  http://askubuntu.com/questions/11840/how-to-chmod-on-an-ntfs-or-fat32-partition/91054#91054
 
+Web Server: http://raspberrywebserver.com/serveradmin/
+
+http://blog.mivia.dk/2013/03/free-dynamic-dns-for-raspberry-pi/
 
 
-Files: fstab, transmission settings, pyload settings, vnc scripts,smb.conf, transmission-daemon
+Files: fstab, transmission settings, pyload settings, vnc scripts,smb.conf, transmission-daemon, /etc/ddclient.conf
