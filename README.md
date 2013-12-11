@@ -23,5 +23,9 @@ http://blog.mivia.dk/2013/03/free-dynamic-dns-for-raspberry-pi/
 
 http://it.wikihow.com/Creare-un-Web-Server-su-Raspberry-Pi
 
+Proxy: https://forum.transmissionbt.com/viewtopic.php?f=8&t=6133
+
+http://www.fusionswift.com/2010/07/setting-up-transmissions-web-interface/
+
 
 Files: fstab, transmission settings, pyload settings, vnc scripts,smb.conf, transmission-daemon, /etc/ddclient.conf
