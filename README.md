@@ -27,5 +27,9 @@ Proxy: https://forum.transmissionbt.com/viewtopic.php?f=8&t=6133
 
 http://www.fusionswift.com/2010/07/setting-up-transmissions-web-interface/
 
+Email Citadelle: http://www.ducky-pond.com/posts/2012/Jul/installing-citadel-on-rpi/
+
+http://www.citadel.org/doku.php/faq:installation:apacheproxy
+
 
 Files: fstab, transmission settings, pyload settings, vnc scripts,smb.conf, transmission-daemon, /etc/ddclient.conf, /etc/apache2/ports.conf
